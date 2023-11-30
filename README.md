@@ -25,6 +25,8 @@ composer require league/flysystem-google-cloud-storage
 - copy semua  yang ada didalam
 
 ## 4. setelah semua siap lanjutnya untuk mengubah kypath file sama bucketnya sesuai dengan nama bucketmu 
-- $keyFile = <ALAMAT LENGKAP CREDENSIAL.JSON> // TOLONG UNTUK INI SETELA TUTRIAL BUAT BUCKET DI GOOGLE CLOUD
-- $bucket = <GANTI DENGAN NAMA BUCKET>
+- $keyFile = {ALAMAT LENGKAP CREDENSIAL.JSON} // TOLONG UNTUK INI SETELA TUTRIAL BUAT BUCKET DI GOOGLE CLOUD
+- $bucket = {GANTI DENGAN NAMA BUCKET}  // TOLONG UNTUK INI SETELA TUTRIAL BUAT BUCKET DI GOOGLE CLOUD
+
+##Tutorial Untuk buat bucket Google Cloud Storage
 
